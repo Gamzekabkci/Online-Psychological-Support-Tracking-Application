@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|c:\\users\\gkaba\\desktop\\nesne lab uygulama\\1psikolojikdestekapp\\1psikolojikdestekapp\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|c:\\users\\gkaba\\desktop\\nesne lab uygulama\\1psikolojikdestekapp\\1psikolojikdestekapp\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|c:\\users\\gkaba\\desktop\\nesne lab uygulama\\1psikolojikdestekapp\\1psikolojikdestekapp\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1psikolojikdestekapp\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAEC9697-B3AE-4296-B970-92CF1B3A54CE}|1PsikolojikDestekApp\\1PsikolojikDestekApp.csproj|solutionrelative:1psikolojikdestekapp\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Class1.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Class1.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Class1.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Class1.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAA6wJ8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:57:00.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form1.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:39:29.124Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form2.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:40:22.193Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form3.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form3.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:40:30.701Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form4.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form4.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:05:55.99Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form5.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form5.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:12:15.191Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form6.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form6.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:12:21.866Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form7.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form7.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form7.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form7.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form7.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:34:49.882Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form8.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form8.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form8.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form8.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form8.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:42:52.842Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form9.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form9.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:01:06.532Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form10.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form10.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form10.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form10.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form10.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:07:14.013Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form11.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form11.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form11.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form11.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form11.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:07:23.347Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form12.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form12.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form12.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form12.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form12.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:07:30.906Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form1.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form1.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAtwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:57:56.39Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form2.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form2.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form2.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwD4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:55:55.219Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form3.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form3.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form3.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form3.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4v18AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:56:25.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form4.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form4.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form4.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form4.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwEQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:50:25.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form5.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form5.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form5.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form5.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:26:55.856Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form6.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form6.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form6.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form6.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:32:59.097Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form7.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form7.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form7.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form7.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvzkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:41:25.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form9.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form9.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form9.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form9.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:07:48.759Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form13.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form13.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form13.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form13.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:07:04.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form13.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form13.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form13.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form13.cs [Tasar\u0131m]",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form13.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:02:52.086Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form8.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form8.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form8.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form8.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAASwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:53:10.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form10.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form10.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form10.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form10.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:14:40.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form11.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form11.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form11.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form11.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIAwwBAAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:17:31.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form12.cs",
+              "RelativeDocumentMoniker": "1PsikolojikDestekApp\\Form12.cs",
+              "ToolTip": "C:\\Users\\gkaba\\Desktop\\nesne lab uygulama\\1PsikolojikDestekApp\\1PsikolojikDestekApp\\Form12.cs",
+              "RelativeToolTip": "1PsikolojikDestekApp\\Form12.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:04:09.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
